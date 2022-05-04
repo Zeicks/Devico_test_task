@@ -1,0 +1,7 @@
+XPath:
+
+//div[@class="home-top-section__left"]//div[@class="button" and text()="Get in Touch"]
+
+CSS:
+
+a.home-top-section__button-container>.button
